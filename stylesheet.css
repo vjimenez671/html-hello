@@ -1,0 +1,218 @@
+body{
+    background-color: rgb(248, 212, 198);
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 330vh;
+}
+
+/*Título*/
+     
+.div-title{
+    background-color: white;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.title{
+    text-align: center;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 0;
+    font-size: 30px;
+}
+
+/*Primera publicación*/
+
+.first-post{
+    width: 30vw;
+    height: 45vh;
+    display: block;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.first-h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 10px;
+}
+
+.first-h4{
+    font-family: monospace;
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.first-image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.first-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.first-description{
+    background-color: white;
+    font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+/*Segunda publicación*/
+
+.second-post{
+    width: 30vw;
+    height: 45vh;
+    display: block;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.second-h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 10px;
+}
+
+.second-h4{
+    font-family: monospace;
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.second-image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.second-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.second-description{
+    background-color: white;
+    font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+/*Tercera publicación*/
+
+.third-post{
+    width: 30vw;
+    height: 45vh;
+    display: block;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.third-h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 10px;
+}
+
+.third-h4{
+    font-family: monospace;
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.third-image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.third-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.third-description{
+    background-color: white;
+    font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+/*Cuarta publicación*/
+
+.fourth-post{
+    width: 30vw;
+    height: 45vh;
+    display: block;
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.fourth-h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    padding-left: 10px;
+}
+
+.fourth-h4{
+    font-family: monospace;
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.fourth-image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.fourth-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.fourth-description{
+    background-color: white;
+    font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
